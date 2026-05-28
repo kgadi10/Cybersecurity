@@ -30,6 +30,7 @@ A GUI-based chatbot application developed in C# Windows Forms that educates user
 
 ## CI Workflow
 
+<img width="1315" height="670" alt="Screenshot 2026-04-13 125933" src="https://github.com/user-attachments/assets/8aacaf15-3e6c-42b5-a2dd-be193455b571" />
 
 Screenshot of successful GitHub Actions workflow included below.
 
